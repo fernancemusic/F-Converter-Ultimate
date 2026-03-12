@@ -1,4 +1,4 @@
-🎧 F Converter Ultimate (v1.1.0)
+🎧 F Converter Ultimate (v1.7.6)
 The Definitive Audio Engine for Professional DJs.
 F Converter Ultimate è lo strumento definitivo progettato da un DJ per i DJ. Non è solo un downloader, ma una workstation completa per gestire, convertire e monitorare la tua libreria musicale con standard da studio.
 
